@@ -1,21 +1,21 @@
 {
     "books": [
     {
-        "_id": 10,
+        "id": 10,
         "title": "Programação Web com Node.js",
         "image": "https://m.media-amazon.com/images/I/4110e7iseFL.jpg",
         "price": 14.99,
         "url": "https://www.amazon.com.br/Programa%C3%A7%C3%A3o-Web-com-Node-js-Front-end-ebook/dp/B074RCRKSL/ref=monarch_sidesheet"
     },
     {
-        "_id": 20,
+        "id": 20,
         "title": "Node.js e Microservices",
         "image": "https://m.media-amazon.com/images/I/41CUCsnLPML.jpg",
         "price": 14.99,
         "url": "https://www.luiztools.com.br/livro-node-ii-amazon"
     },
     {
-        "_id": 30,
+        "id": 30,
         "title": "MongoDB para Iniciantes",
         "image": "https://m.media-amazon.com/images/I/31NR3RRS3VL.jpg",
         "price": 11.99,
